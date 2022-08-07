@@ -1,0 +1,25 @@
+import { useTranslation } from "react-i18next";
+import { LINKS } from "../../../constants/links";
+import { Link } from "../../link/Link";
+import { Logo } from "../../logo/Logo";
+import styles from "./PresentationCard.module.scss";
+
+export const PresentationCard = () => {
+  const { t } = useTranslation("presentation");
+
+  const { linkedin, github } = LINKS;
+
+  return (
+    <article>
+      <div className={styles.header}>
+        <Logo width={128} />
+        <h4>{t("card.header")}</h4>
+      </div>
+      <p>{t("card.body")}</p>
+      <footer>
+        <Link name={linkedin.name} url={linkedin.url} />
+        <Link name={github.name} url={github.url} />
+      </footer>
+    </article>
+  );
+};

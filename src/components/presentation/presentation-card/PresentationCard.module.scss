@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+  figure {
+    margin-bottom: 16px;
+  }
+
+  h4 {
+    margin-top: 0;
+  }
+}

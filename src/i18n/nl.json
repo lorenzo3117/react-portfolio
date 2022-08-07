@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "projects": "Projecten",
+    "resume": "CV",
+    "contact": "Contact"
+  },
+  "presentation": {
+    "subtitle": "Hallo, welkom op mijn portfolio! Laat me je tonen wat ik tot nu toe heb gemaakt...",
+    "card": {
+      "header": "Wie ben ik?",
+      "body": "Mijn naam is Lorenzo Catalano. Ik heb een passie voor technologie en programmeren. Ik heb net begonnen aan mijn derde jaar bij UCLL, waar ik toegepaste informatica studeer. Ook werk ik graag van tijd tot tijd aan enkele kleine zijprojecten. Deze website is gemaakt om al deze projecten, samen met mijn cv, op één plek te hebben."
+    }
+  },
+  "projects": {
+    "title": "Projecten",
+    "loading": "Projecten laden...",
+    "error": "Er is een fout opgetreden bij het ophalen van de projecten. Probeer het later opnieuw."
+  },
+  "resume": {
+    "title": "CV"
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "links": {
+    "website": "Website",
+    "email": "E-mailadres",
+    "phone": "Telefoonnummer",
+    "linkedin": "LinkedIn",
+    "github": "Github"
+  }
+}

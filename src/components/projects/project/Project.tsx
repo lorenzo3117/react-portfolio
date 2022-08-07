@@ -15,8 +15,8 @@ export const Project = ({ project }: ProjectProps) => {
         <p>{project.description}</p>
       </div>
       <footer>
-        {project.links.map((link) => (
-          <ProjectLink link={link} />
+        {project.links.map((link, index) => (
+          <ProjectLink key={index} link={link} />
         ))}
       </footer>
     </article>

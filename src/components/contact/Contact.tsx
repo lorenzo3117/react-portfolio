@@ -11,8 +11,8 @@ export const Contact = () => {
     <div id="contact">
       <h2>{t("title")}</h2>
       <div className={styles.container}>
-        {links.map((link) => (
-          <p>
+        {links.map((link, index) => (
+          <p key={index}>
             {t(link.name)}:{" "}
             <a href={link.url} target="_blank" rel="noreferrer">
               {link.description}

@@ -12,11 +12,9 @@ export const Nav = () => {
         </li>
       </ul>
       <ul>
-        {NAV.map((nav) => (
-          <li>
-            <a key={nav} href={`#${nav}`}>
-              {t(nav)}
-            </a>
+        {NAV.map((nav, index) => (
+          <li key={index}>
+            <a href={`#${nav}`}>{t(nav)}</a>
           </li>
         ))}
       </ul>

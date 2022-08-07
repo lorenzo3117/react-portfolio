@@ -44,7 +44,7 @@ article footer a {
   flex: 1;
 }
 
-article.grow  {
+article.grow {
   display: flex;
   flex-direction: column;
   justify-content: space-between;

@@ -6,7 +6,7 @@ export const PROJECTS: IProject[] = [
     image: "./react.png",
     name: "Intership MyGamePlan.ai",
     description:
-      "For five months, I did an internship MyGamePlan.ai. With the web application built with React and Typescript, football clubs can analyze and plan their matches. The players can use the mobile application, developed with React Native, to see their stats and improve themselves. At this internship I learned advanced React, Typescript, NodeJS, ExpressJS, MongoDB and React Native. Working in a team was also a new experience for me.",
+      "For five months, I did an internship at MyGamePlan.ai. With the web application built with React and Typescript, football clubs can analyze and plan their matches. The players can use the mobile application, developed with React Native, to see their stats and improve themselves. At this internship I learned advanced React, Typescript, NodeJS, ExpressJS, MongoDB and React Native. Working in a team was also a new experience for me.",
     links: [
       {
         type: ILinkTypes.WEBSITE,
@@ -48,7 +48,7 @@ export const PROJECTS: IProject[] = [
   {
     id: 4,
     image: "./python.png",
-    name: "Python tekst zoeker",
+    name: "Python text searcher",
     description:
       "This script will search for text that you can type in. It zan in all txt files in the current folder and all its subfolders. If any files containing the text are found, you can copy them into a folder of your choice if you wish. This was just a small personal project.",
     links: [
@@ -63,7 +63,7 @@ export const PROJECTS: IProject[] = [
     image: "./saskia-kapsalon.png",
     name: "Saskia Kapsalon",
     description:
-      "Semester project for my first year in college. We had to create a simple static website for a small business. Me and my teammates choose 'Saskia Hair Salon', a hair salon in my town.",
+      "Semester project for my first year in college. We had to create a simple static website for a small business. Me and my teammates choose 'Saskia Kapsalon', a hair salon in my town.",
     links: [
       {
         type: ILinkTypes.WEBSITE,
@@ -78,7 +78,7 @@ export const PROJECTS: IProject[] = [
   {
     id: 6,
     image: "./python.png",
-    name: "Python sortering scripts",
+    name: "Python sorting scripts",
     description:
       "During my senior year in high school, we had to make a paper related to mathematics. I then decided to research sorting algorithms because it would give me a good foundation for when I went to college. These algorithms were created in Python. The research was very interesting and fun to do. I also got a good grade for it, win-win situation!",
     links: [

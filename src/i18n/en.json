@@ -1,1 +1,33 @@
-{}
+{
+  "nav": {
+    "projects": "Projects",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "presentation": {
+    "subtitle": "Hello, welcome to my portfolio! Let me show you what I have made so far....",
+    "card": {
+      "header": "Who am I?",
+      "intro": "My name is Lorenzo Catalano. I have a passion for technology and programming and recently graduated from UCLL, where I studied applied computer science.",
+      "body": "My main focus is on full stack web development, but working on embedded systems is not a problem for me. 'MERN' is currently my go-to stack for web development (more skills on my resume)."
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "loading": "Loading projects...",
+    "error": "An error occurred while retrieving the projects. Please try again later."
+  },
+  "resume": {
+    "title": "Resume"
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "links": {
+    "website": "Website",
+    "email": "Email address",
+    "phone": "Phone number",
+    "linkedin": "LinkedIn",
+    "github": "Github"
+  }
+}

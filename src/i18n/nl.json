@@ -1,8 +1,10 @@
 {
   "nav": {
     "projects": "Projecten",
+    "skills": "Competenties",
     "resume": "CV",
-    "contact": "Contact"
+    "contact": "Contact",
+    "lang": "Taal"
   },
   "presentation": {
     "subtitle": "Hallo, welkom op mijn portfolio! Laat me je tonen wat ik tot nu toe heb gemaakt...",
@@ -16,6 +18,12 @@
     "title": "Projecten",
     "loading": "Projecten laden...",
     "error": "Er is een fout opgetreden bij het ophalen van de projecten. Probeer het later opnieuw."
+  },
+  "skills": {
+    "title": "Competenties",
+    "web": "Webontwikkeling",
+    "mobile": "Mobiele ontwikkeling",
+    "embedded": "Systeem ontwikkeling"
   },
   "resume": {
     "title": "CV"

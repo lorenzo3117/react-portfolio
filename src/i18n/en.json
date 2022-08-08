@@ -1,8 +1,10 @@
 {
   "nav": {
     "projects": "Projects",
+    "skills": "Skills",
     "resume": "Resume",
-    "contact": "Contact"
+    "contact": "Contact",
+    "lang": "Language"
   },
   "presentation": {
     "subtitle": "Hello, welcome to my portfolio! Let me show you what I have made so far....",
@@ -16,6 +18,12 @@
     "title": "Projects",
     "loading": "Loading projects...",
     "error": "An error occurred while retrieving the projects. Please try again later."
+  },
+  "skills": {
+    "title": "Skills",
+    "web": "Web dev",
+    "mobile": "Mobile dev",
+    "embedded": "Embedded dev"
   },
   "resume": {
     "title": "Resume"

@@ -2,11 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-nav {
-  padding: 16px 0;
-  margin-bottom: 32px;
-}
-
 main {
   max-width: 1536px;
   margin: auto;

@@ -5,7 +5,18 @@
 
 .skills {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
   column-gap: 42px;
   row-gap: 16px;
+}
+
+@media screen and (min-width: 600px) {
+  .skills {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .skills {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }

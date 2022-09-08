@@ -11,7 +11,7 @@
     "card": {
       "header": "Wie ben ik?",
       "intro": "Mijn naam is Lorenzo Catalano. Ik heb een passie voor technologie en programmeren en ben onlangs afgestudeerd aan de UCLL, waar ik toegepaste computerwetenschappen heb gestudeerd.",
-      "body": "Mijn belangrijkste focus ligt op full stack web ontwikkeling, maar werken aan systeem ontwikkeling is geen probleem voor mij. 'MERN' is momenteel mijn go-to stack voor webontwikkeling (meer vaardigheden op mijn cv)."
+      "body": "Mijn belangrijkste focus ligt op full stack web ontwikkeling, maar werken aan software ontwikkeling is geen probleem voor mij. 'MERN' is momenteel mijn go-to stack voor webontwikkeling (meer vaardigheden op mijn cv)."
     }
   },
   "projects": {
@@ -23,7 +23,7 @@
     "title": "Competenties",
     "web": "Webontwikkeling",
     "mobile": "Mobiele ontwikkeling",
-    "embedded": "Systeem ontwikkeling"
+    "software": "Software ontwikkeling"
   },
   "resume": {
     "title": "CV"

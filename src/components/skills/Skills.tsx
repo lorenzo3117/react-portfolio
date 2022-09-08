@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import {
-  EMBEDDED_SKILLS,
+  SOFTWARE_SKILLS,
   MOBILE_SKILLS,
   WEB_SKILLS,
 } from "../../constants/skills";
@@ -31,9 +31,9 @@ export const Skills = () => {
           </div>
         </div>
         <div>
-          <h4>{t("embedded")}</h4>
+          <h4>{t("software")}</h4>
           <div className={styles.skills}>
-            {EMBEDDED_SKILLS.map((skill, index) => (
+            {SOFTWARE_SKILLS.map((skill, index) => (
               <Skill key={index} skill={skill} />
             ))}
           </div>

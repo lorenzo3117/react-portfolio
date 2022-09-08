@@ -11,7 +11,7 @@
     "card": {
       "header": "Who am I?",
       "intro": "My name is Lorenzo Catalano. I have a passion for technology and programming and recently graduated from UCLL, where I studied applied computer science.",
-      "body": "My main focus is on full stack web development, but working on system development is not a problem for me. 'MERN' is currently my go-to stack for web development (more skills on my resume)."
+      "body": "My main focus is on full stack web development, but working on software development is not a problem for me. 'MERN' is currently my go-to stack for web development (more skills on my resume)."
     }
   },
   "projects": {
@@ -23,7 +23,7 @@
     "title": "Skills",
     "web": "Web dev",
     "mobile": "Mobile dev",
-    "embedded": "Embedded dev"
+    "software": "Software dev"
   },
   "resume": {
     "title": "Resume"

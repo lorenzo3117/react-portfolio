@@ -56,7 +56,7 @@ export const MOBILE_SKILLS: ISkill[] = [
   },
 ];
 
-export const EMBEDDED_SKILLS: ISkill[] = [
+export const SOFTWARE_SKILLS: ISkill[] = [
   {
     name: "Python",
     level: 8,

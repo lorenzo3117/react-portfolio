@@ -1,8 +1,8 @@
 export const LINKS = {
   email: {
     name: "email",
-    url: "mailto:lorenzocatalano37@gmail.com",
-    description: "lorenzocatalano37@gmail.com",
+    url: "mailto:lorenzo.catalano@outlook.com",
+    description: "lorenzo.catalano@outlook.com",
   },
   phone: {
     name: "phone",

@@ -6,7 +6,7 @@ export const PROJECTS: IProject[] = [
     image: "./react.png",
     name: "Intership MyGamePlan.ai",
     description:
-      "For five months, I did an internship at MyGamePlan.ai. With the web application built with React and Typescript, football clubs can analyze and plan their matches. The players can use the mobile application, developed with React Native, to see their stats and improve themselves. At this internship I learned advanced React, Typescript, NodeJS, ExpressJS, MongoDB and React Native. Working in a team was also a new experience for me.",
+      "Since March 2022, I did an internship at MyGamePlan.ai. With the web application built with React and Typescript, football clubs can analyze and plan their matches. The players can use the mobile application, developed with React Native, to see their stats and improve themselves. At this internship I learned advanced React, Typescript, NodeJS, ExpressJS, MongoDB and React Native. Working in a team was also a new experience for me.",
     links: [
       {
         type: ILinkTypes.WEBSITE,
